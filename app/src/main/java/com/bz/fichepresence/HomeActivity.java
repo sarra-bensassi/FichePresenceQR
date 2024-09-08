@@ -41,7 +41,7 @@ import java.util.Scanner;
 import java.util.TimeZone;
 
 public class HomeActivity extends AppCompatActivity {
-
+#TESSSSTTTTTTT
     private IntentIntegrator qrScan;
     static final int REQUEST_IMAGE_CAPTURE = 1;
     public static PersonOps pOps;
