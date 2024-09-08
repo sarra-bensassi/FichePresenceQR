@@ -17,7 +17,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
-
+import org.json.JSONException;
 import com.bz.fichepresence.adapters.PersonneAdapter;
 import com.bz.fichepresence.dbOperations.PersonOps;
 import com.bz.fichepresence.entities.Personne;
